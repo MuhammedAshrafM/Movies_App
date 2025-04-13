@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+
+    <string name="no_internet_connection">No internet connection, please check connection and try again</string>
+    <string name="timeout_exceeded">Timeout exceeded while waiting for loading, make sure you are connected to the internet</string>
+    <string name="error_occurred">error occurred, please try again</string>
+    <string name="toggle">toggle</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading_movies">Error Loading Movies</string>
+    <string name="offline_mode">Offline Mode</string>
+
+    <string name="movie_backdrop">Movie backdrop image</string>
+    <string name="rating_format">%.1f</string>
+    <string name="runtime_format">%d min</string>
+    <string name="overview">Overview</string>
+    <string name="no_favorites">No favorites yet</string>
+</resources>
